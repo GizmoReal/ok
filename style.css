@@ -152,4 +152,5 @@ height: 300px;
     background-color: var(--dark);
     display: flex;
     max-width: 165px;
+    margin-bottom: 30px;
 }
